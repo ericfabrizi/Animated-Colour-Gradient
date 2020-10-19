@@ -7,5 +7,7 @@ Deployed with Surge
 
 The placeholder heading is the title of a short story by Philip K. Dick as I thought it would fit the style of the page
 
-The page features the font 'format 1452' by Frank Adebiaye with contributions by Anton Moglia via the [Velvetyne Font Foundry](https://velvetyne.fr)
+The page features the font 'format 1452' by Frank Adebiaye with contributions by Anton Moglia
+
+You can find that font and others at the [Velvetyne](https://velvetyne.fr)! An open source type foundry
 
