@@ -9,5 +9,5 @@ The placeholder heading is the title of a short story by Philip K. Dick as I tho
 
 The page features the font 'format 1452' by Frank Adebiaye with contributions by Anton Moglia
 
-You can find that font and others at the [Velvetyne](https://velvetyne.fr)! An open source type foundry
+You can find that font and others at [Velvetyne](https://velvetyne.fr)! An open source type foundry
 
