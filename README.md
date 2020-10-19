@@ -1,7 +1,7 @@
 # Animated Colour Gradient
 ### View at: https://can-d.surge.sh
 
-A retro-futurist landing page showcasing a subtly animated colour gradient
+A retro-futurist landing page showcasing a subtle animated colour gradient
 
 Deployed with Surge
 
