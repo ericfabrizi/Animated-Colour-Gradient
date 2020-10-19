@@ -1,0 +1,51 @@
+@font-face {
+    font-family: format-1452;
+    src: url(Format_1452.otf);
+}
+
+.title {
+    font-family: format-1452;
+    text-align: center;
+    font-size: 120px;
+    color: rgb(236, 236, 236);
+    background-image: linear-gradient(170deg, rgba(0, 0, 204, 0.5), rgba(110, 24, 190, 0.5), rgba(170, 0, 0, 0.5));
+    padding: 35px 0px 20px 0px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(236, 236, 236);
+    margin: 80px 20px 80px 20px;
+}
+
+.buttons {
+    font-family: format-1452;
+    font-size: 40px;
+    background-color: rgb(236, 236, 236);
+    margin: auto;
+    margin-bottom: 30px;
+    display: block;
+    padding: 10px;
+    border-width: 10px;
+    outline: none;
+    
+}
+
+.background {
+    background-image: linear-gradient(200deg, rgb(0, 0, 204), rgb(110, 24, 190), rgb(170, 0, 0));
+    background-size: 400%;
+    margin: 0px;
+    min-width: 800px;
+    animation: fill 25s ease infinite;
+    -moz-animation: fill 20s ease infinite;
+}
+
+@keyframes fill {
+    0% {background-position: 20% 20%;}
+    50% {background-position: 65% 65%;}
+    100% {background-position: 20% 20%;}
+}
+
+@-moz-keyframes fill {
+    0% {background-position: 20% 20%;}
+    50% {background-position: 65% 65%;}
+    100% {background-position: 20% 20%;}
+}
