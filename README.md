@@ -11,3 +11,5 @@ The page features the font 'format 1452' by Frank Adebiaye with contributions by
 
 You can find that font and others at [Velvetyne](https://velvetyne.fr)! An open source type foundry
 
+(Not compatible with Safari)
+
